@@ -43,8 +43,8 @@ Este projeto é um sistema simples de gerenciamento de alunos e turmas para uma 
    npm run dev
 
 ## Membros
-- Gustavo Nogueira [Linkedin]([URL](https://www.linkedin.com/in/gustavo-henrique-nogueira-11659a221/))
-- Matheus Cavalcante [Linkedin]([URL](https://www.linkedin.com/in/matheus-cavalcante-ab2256221/))
-- Thiago Dourado [Linkedin]([URL](https://www.linkedin.com/in/thiago-dourado-fontenla/))
+- Gustavo Nogueira [Linkedin](https://www.linkedin.com/in/gustavo-henrique-nogueira-11659a221/)
+- Matheus Cavalcante [Linkedin](https://www.linkedin.com/in/matheus-cavalcante-ab2256221/)
+- Thiago Dourado [Linkedin](https://www.linkedin.com/in/thiago-dourado-fontenla/)
 
 
