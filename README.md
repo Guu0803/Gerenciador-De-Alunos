@@ -35,13 +35,13 @@ Este projeto é um sistema simples de gerenciamento de alunos e turmas para uma 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Guu0803/Gerenciador-De-Alunos
+   https://github.com/Guu0803/Gerenciador-De-Alunos
 2. Acesse o diretório do projeto:
-   cd nome-do-repositorio
+   `cd nome-do-repositorio`
 3. Instale as dependências:
-   npm install
+   `npm install`
 4. Inicie o servidor de desenvolvimento:
-   npm run dev
+   `npm run dev`
 
 
 ## Membros
