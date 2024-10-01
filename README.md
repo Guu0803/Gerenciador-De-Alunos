@@ -4,16 +4,12 @@ Este projeto é um sistema simples de gerenciamento de alunos e turmas para uma 
 
 ## Índice
 
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Estrutura de Classes](#estrutura-de-classes)
-  - [Classe `Aluno`](#classe-aluno)
-  - [Classe `Turma`](#classe-turma)
-  - [Classe `Escola`](#classe-escola)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Sistema de Gerenciamento de Escola - "Lógica Sempre"](#sistema-de-gerenciamento-de-escola---lógica-sempre)
+  - [Índice](#índice)
+  - [Funcionalidades](#funcionalidades)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  - [Instalação](#instalação)
+  - [Membros](#membros)
 
 ## Funcionalidades
 
@@ -37,12 +33,14 @@ Este projeto é um sistema simples de gerenciamento de alunos e turmas para uma 
    ```bash
    https://github.com/Guu0803/Gerenciador-De-Alunos
 2. Acesse o diretório do projeto:
-   `cd nome-do-repositorio`
+   ```
+   cd nome-do-repositorio
 3. Instale as dependências:
-   `npm install`
+   ``` 
+   npm install
 4. Inicie o servidor de desenvolvimento:
-   `npm run dev`
-
+   ```
+   npm run dev
 
 ## Membros
 - Gustavo Nogueira [Linkedin]([URL](https://www.linkedin.com/in/gustavo-henrique-nogueira-11659a221/))
